@@ -1,43 +1,33 @@
-<p align="center">
-  <img src="assets/stats.svg" width="100%" />
-</p>
+<p><b>themaz55@github:~$</b> neofetch</p>
+
+<img src="https://wsrv.nl/?url=github.com/TheMaz55.png&w=240&h=240&fit=cover&mask=circle&output=png" width="200" align="left" alt="TheMaz55" />
+
+<b>themaz55@github</b><br>
+<b>Name :</b> TheMaz<br>
+<b>Role :</b> Frontend / full-stack engineer<br>
+<b>Uptime :</b> 1 year on GitHub<br>
+<b>Languages :</b> CSS, Shell, PHP, JavaScript<br>
+<br>
+<b>GitHub :</b> github.com/themaz55<br>
+<br>
+<b>Repos :</b> 2 &nbsp;|&nbsp; <b>Followers :</b> 0 &nbsp;|&nbsp; <b>Following :</b> 0<br>
+<b>Contributions :</b> 104 &nbsp;|&nbsp; <b>Active days :</b> 18 &nbsp;|&nbsp; <b>Best streak :</b> 4d
+
+<br clear="left">
+
+---
+
+## 🛠️ Ma boîte à outils
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📬 Me contacter
+
+<p align="center">
+  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-ton.email@exemple.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TheMaz55"><img src="https://img.shields.io/badge/GitHub-TheMaz55-181717?style=for-the-badge&logo=github" /></a>
 </p>
-
-## 🧬 Streak & activité
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheMaz55&theme=dark&hide_border=true&background=0b1114&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMaz55&bg_color=0b1114&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-## 📅 Rythme
-
-<p align="center">
-  <img src="assets/rhythm.svg" alt="Rythme de contribution" width="100%" />
-</p>
-
-## 💻 De quoi mon code est fait
-
-<!-- La taille de chaque logo est proportionnelle à son pourcentage (≈ 3 px par %) -->
-<table align="center">
-  <tr align="center" valign="bottom">
-    <td>
-      <img src="https://skillicons.dev/icons?i=bash" height="66" /><br/>
-      <b>Shell</b><br/><sub>22%</sub>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=css" height="84" /><br/>
-      <b>CSS</b><br/><sub>28%</sub>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php" height="63" /><br/>
-      <b>PHP</b><br/><sub>21%</sub>
-    </td>
-  </tr>
-</table>
