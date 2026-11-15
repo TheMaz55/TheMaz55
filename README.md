@@ -41,11 +41,3 @@
     </td>
   </tr>
 </table>
-
-## ⚖️ Où va mon temps
-
-<p align="center">
-  <img src="assets/radar.svg" alt="Répartition de mon activité" width="100%" />
-</p>
-
-<p align="center"><sub>Data Story · données issues de mon activité GitHub publique</sub></p>
