@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/stats.svg" alt="TheMaz - The year in data" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/TheMaz55"><img src="https://img.shields.io/badge/GitHub-TheMaz55-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
